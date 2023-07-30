@@ -1,5 +1,5 @@
 import productModel from "../models/productModel.js";
-import categoryModel from "../models/CategoryModel.js";
+import categoryModel from "../models/categoryModel.js";
 import orderModel from "../models/orderModel.js";
 import braintree from 'braintree';
 import fs from "fs";
