@@ -15,7 +15,7 @@ const app=express()
 connectDB();
 
 const __filename=fileURLToPath(import.meta.url);
-const __dirname=pth.dirname(__filename);
+const __dirname=path.dirname(__filename);
 app.use(cors());
 app.use(express.json());
 app.use(morgan('dev'));
