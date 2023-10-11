@@ -39,6 +39,7 @@ Start the server
 
 MongoDB, Express.js, React, and Node.js
 
+![ecom](https://github.com/Aditay2002/Ecommerce-production/assets/113267125/306373ca-19c3-47bf-ba2e-ec7d0dcb930b)
 
 
 ## 🚀 About Me
@@ -49,9 +50,7 @@ I'm a MERN stack developer...
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditay-yadav-/)
 
-## Screenshots
 
-![App Screenshot](C:\Users\HP\Pictures\Screenshots\ecom.png)
 
 
 ## Support
