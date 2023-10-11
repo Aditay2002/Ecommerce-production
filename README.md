@@ -51,7 +51,7 @@ I'm a MERN stack developer...
 
 ## Screenshots
 
-![App Screenshot](https://imageupload.io/ZzXexG5R6cB1lt6)
+![App Screenshot](C:\Users\HP\Pictures\Screenshots\ecom.png)
 
 
 ## Support
